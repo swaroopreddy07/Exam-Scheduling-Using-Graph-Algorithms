@@ -2,7 +2,7 @@
 This project implements an Exam Scheduling System using graph-based models and scheduling algorithms. A conflict graph is built where nodes represent subjects, and edges indicate shared students. The scheduling problem is solved using Backtracking, Greedy, DSATUR, Smallest Degree Last, and Tabu Search. The system supports three graph representations—Edge List, Adjacency List, and Adjacency Matrix, each offering different trade-offs in memory usage and performance.
 
 
-📂 Exam-Scheduling-Using-Graph-Algorithms
+## 📂 Exam-Scheduling-Using-Graph-Algorithms
 ├── 📄 1.cpp - Backtracking Scheduling
 ├── 📄 2.cpp - Greedy Scheduling
 ├── 📄 3.cpp - Smallest Degree Last Scheduling
