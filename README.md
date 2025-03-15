@@ -24,3 +24,14 @@ This project implements an Exam Scheduling System using graph-based models and s
 - 📄 **neighbors.hpp** - Neighbor Functions  
 - 📄 **schedulingAlgorithms.hpp** - Scheduling Headers  
 
+## How to Run the Code?
+⚠️ You need a properly set up WSL environment to run this project smoothly.
+1) Open WSL by using the command: wsl
+2)Navigate to your project folder using: cd path-to-your-folder
+3)Compile the project using: g++ -o exam_scheduler 1.cpp graph.cpp edge.cpp vertex.cpp hash.cpp neighbors.cpp schedulingAlgorithms.cpp
+  -The command uses 1.cpp, which means Backtracking Scheduling.
+  -If you want to try a different algorithm, replace 1.cpp with 2.cpp, 3.cpp, etc.
+4)Run the executable using:./exam_scheduler < complete.ip
+  -The command directly takes input from a file called complete.ip, so you don't need to enter input manually.
+  -If you want to test with different cases, such as a bipartite graph or a tree, you can change the input file or enter input manually.
+The output will be saved in a file with the .op extension.
