@@ -3,21 +3,24 @@ This project implements an Exam Scheduling System using graph-based models and s
 
 
 ## 📂 Exam-Scheduling-Using-Graph-Algorithms
-├── 📄 1.cpp - Backtracking Scheduling
-├── 📄 2.cpp - Greedy Scheduling
-├── 📄 3.cpp - Smallest Degree Last Scheduling
-├── 📄 4.cpp - DSATUR Scheduling
-├── 📄 5.cpp - Tabu Search Scheduling
-├── 📄 graph.cpp - Graph Implementations
-├── 📄 edge.cpp - Edge Management
-├── 📄 vertex.cpp - Vertex Representation
-├── 📄 hash.cpp - Hash Table for Fast Lookup
-├── 📄 neighbors.cpp - Neighbor Retrieval Functions
-├── 📄 schedulingAlgorithms.cpp - All Scheduling Methods
-├── 📄 main.cpp - Entry Point
-├── 📄 graph.hpp - Graph Class Definitions
-├── 📄 edge.hpp - Edge Class
-├── 📄 vertex.hpp - Vertex Class
-├── 📄 hash.hpp - Hash Table Header
-├── 📄 neighbors.hpp - Neighbor Functions
-├── 📄 schedulingAlgorithms.hpp - Scheduling Headers
+
+### **Source Files**
+- 📄 **1.cpp** - Backtracking Scheduling  
+- 📄 **2.cpp** - Greedy Scheduling  
+- 📄 **3.cpp** - Smallest Degree Last Scheduling  
+- 📄 **4.cpp** - DSATUR Scheduling  
+- 📄 **5.cpp** - Tabu Search Scheduling  
+- 📄 **graph.cpp** - Graph Implementations  
+- 📄 **edge.cpp** - Edge Management  
+- 📄 **vertex.cpp** - Vertex Representation  
+- 📄 **hash.cpp** - Hash Table for Fast Lookup  
+- 📄 **neighbors.cpp** - Neighbor Retrieval Functions  
+- 📄 **schedulingAlgorithms.cpp** - All Scheduling Methods  
+- 📄 **main.cpp** - Entry Point  
+- 📄 **graph.hpp** - Graph Class Definitions  
+- 📄 **edge.hpp** - Edge Class  
+- 📄 **vertex.hpp** - Vertex Class  
+- 📄 **hash.hpp** - Hash Table Header  
+- 📄 **neighbors.hpp** - Neighbor Functions  
+- 📄 **schedulingAlgorithms.hpp** - Scheduling Headers  
+
