@@ -4,6 +4,29 @@ This project implements an Exam Scheduling System using graph-based models and s
 
 ## 📂 Exam-Scheduling-Using-Graph-Algorithms
 
+
+Input File (student-course data)
+        ↓
+[main.cpp]
+        ↓
+Construct Graph:
+- Use vertex.cpp
+- Use edge.cpp
+- Use graph.cpp
+        ↓
+Select Scheduling Algorithm:
+- Backtracking (1.cpp)
+- Greedy (2.cpp)
+- DSATUR (4.cpp)
+- Tabu Search (5.cpp)
+        ↓
+Use:
+- neighbors.cpp (for checking conflicts)
+- hash.cpp (for fast lookup)
+        ↓
+Get Output: Time slots for each exam
+
+
 ### **Source Files**
 - 📄 **1.cpp** - Backtracking Scheduling  
 - 📄 **2.cpp** - Greedy Scheduling  
